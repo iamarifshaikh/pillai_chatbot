@@ -1,0 +1,198 @@
+[
+    {
+        "question": "Who is the HOD of the Computer Engineering department?",
+        "answer": "The HOD of Computer Engineering is Dr. Sharvari Govilkar."
+    },
+    {
+        "question": "What is the email of the HOD of the Computer Engineering department?",
+        "answer": "The email of the HOD of Computer Engineering is sgovilkar@mes.ac.in."
+    },
+    {
+        "question": "What is the cabin number of the HOD of the Computer Engineering department?",
+        "answer": "The cabin number of the HOD of Computer Engineering is R-403."
+    },
+    {
+        "question": "What are the research areas of the Computer Engineering department?",
+        "answer": "The research areas include Computer Networks, Data Mining, Image Processing, Cyber Security & Digital Forensics, Natural Language Processing, Ubiquitous Computing, and Machine Learning and Data Science."
+    },
+    {
+        "question": "What labs are available in the Computer Engineering department?",
+        "answer": "The graduate labs include Computer Programming, Data Structure and Algorithm, System Software Lab, Database Lab, Data Mining Lab, Artificial Intelligence, Computer Graphics, Open Source Lab, Network Lab, System Security, and Web Technology."
+    },
+    {
+        "question": "What is the program overview of the Computer Engineering department?",
+        "answer": "Computer Engineering is the key that will open the door to professional careers in the technology sector..."
+    },
+    {
+        "question": "What is the vision of the Computer Engineering department?",
+        "answer": "The vision is to evolve as a centre of academic excellence..."
+    },
+    {
+        "question": "What is the mission of the Computer Engineering department?",
+        "answer": "The mission includes producing highly qualified graduates, pursuing creative research, and inculcating strong ethical values."
+    },
+    {
+        "question": "Who is the HOD of the Information Technology department?",
+        "answer": "The HOD of Information Technology is Dr. Satishkumar Verma. (Email: vsat2k@mes.ac.in)"
+    },
+    {
+        "question": "What is the email of the HOD of the Information Technology department?",
+        "answer": "The email of the HOD of Information Technology is vsat2k@mes.ac.in."
+    },
+    {
+        "question": "What is the cabin number of the HOD of the Information Technology department?",
+        "answer": "The cabin number of the HOD of Information Technology is R-403."
+    },
+    {
+        "question": "What are the research areas of the Information Technology department?",
+        "answer": "The research areas include Artificial Intelligence, Data Science, and Blockchain."
+    },
+    {
+        "question": "What is the program overview of the Information Technology department?",
+        "answer": "IT Engineering focuses on application development and network systems..."
+    },
+    {
+        "question": "What is the vision of the Information Technology department?",
+        "answer": "The vision is to innovate in the field of information technology..."
+    },
+    {
+        "question": "Who is the HOD of the Mechanical Engineering department?",
+        "answer": "The HOD of Mechanical Engineering is Dr. Divya Padmanabhan. (Email: divyamvp@mes.ac.in)"
+    },
+    {
+        "question": "What is the email of the HOD of the Mechanical Engineering department?",
+        "answer": "The email of the HOD of Mechanical Engineering is divyamvp@mes.ac.in."
+    },
+    {
+        "question": "What are the research areas of the Mechanical Engineering department?",
+        "answer": "The research areas include Thermal Engineering, Advanced Manufacturing, Stress Analysis, and Biomaterial."
+    },
+    {
+        "question": "What is the program overview of the Mechanical Engineering department?",
+        "answer": "Mechanical Engineering involves the design, manufacturing, and maintenance of mechanical systems..."
+    },
+    {
+        "question": "What is the vision of the Mechanical Engineering department?",
+        "answer": "The vision is to be a leader in mechanical engineering education..."
+    },
+    {
+        "question": "Who is the HOD of the Automobile Engineering department?",
+        "answer": "The HOD of Automobile Engineering is Dr. Ameya Marathe. (Email: ameymarathe@mes.ac.in)"
+    },
+    {
+        "question": "What is the email of the HOD of the Automobile Engineering department?",
+        "answer": "The email of the HOD of Automobile Engineering is ameymarathe@mes.ac.in."
+    },
+    {
+        "question": "What are the research areas of the Automobile Engineering department?",
+        "answer": "The research areas include Thermal Engineering, Welding Technology, and Vehicle Maintenance."
+    },
+    {
+        "question": "What is the program overview of the Automobile Engineering department?",
+        "answer": "Automobile Engineering deals with the design, manufacture, and operation of vehicles..."
+    },
+    {
+        "question": "What is the vision of the Automobile Engineering department?",
+        "answer": "The vision is to develop an institution of Automobile Engineering that leads in research and innovation..."
+    },
+    {
+        "question": "Who is the HOD of the Electronics and Telecommunication Engineering department?",
+        "answer": "The HOD of Electronics and Telecommunication Engineering is Dr. Avinash Vaidya. (Email: avinashvaidya@mes.ac.in)"
+    },
+    {
+        "question": "What is the email of the HOD of the Electronics and Telecommunication Engineering department?",
+        "answer": "The email of the HOD of Electronics and Telecommunication Engineering is avinashvaidya@mes.ac.in."
+    },
+    {
+        "question": "What are the research areas of the Electronics and Telecommunication Engineering department?",
+        "answer": "The research areas include Communication, Signal Processing, and Embedded Systems."
+    },
+    {
+        "question": "What is the program overview of the Electronics and Telecommunication Engineering department?",
+        "answer": "This program focuses on electronic devices, circuits, and communication systems..."
+    },
+    {
+        "question": "What is the vision of the Electronics and Telecommunication Engineering department?",
+        "answer": "The vision is to be a leading department in electronics and telecommunication education..."
+    },
+    {
+        "question": "Who is the HOD of the First Year Engineering department?",
+        "answer": "The HOD of First Year Engineering is Dr. Arun Pillai. (Email: profarun@mes.ac.in)"
+    },
+    {
+        "question": "What is the email of the HOD of the First Year Engineering department?",
+        "answer": "The email of the HOD of First Year Engineering is profarun@mes.ac.in."
+    },
+    {
+        "question": "What are the graduate labs in the Computer Engineering department?",
+        "answer": "The graduate labs include Computer Programming, Data Structure and Algorithm, System Software Lab, Database Lab, Data Mining Lab, Artificial Intelligence, Computer Graphics, Open Source Lab, Network Lab, System Security, and Web Technology."
+    },
+    {
+        "question": "What undergraduate labs are available in the Mechanical Engineering department?",
+        "answer": "The undergraduate labs include Engineering Mechanics, Automobile Engineering, Production Process, and CAD/FEA."
+    },
+    {
+        "question": "What undergraduate labs are available in the Automobile Engineering department?",
+        "answer": "The undergraduate labs include Engineering Mechanics, Thermal Engineering, and Material Technology."
+    },
+    {
+        "question": "What undergraduate labs are available in the Electronics and Telecommunication Engineering department?",
+        "answer": "The undergraduate labs include Power Electronics, Digital Electronics, and Analog Electronics."
+    },
+    {
+        "question": "What is the mission of the Mechanical Engineering department?",
+        "answer": "The mission includes providing high-quality education, promoting research and innovation, and encouraging collaboration with industry partners."
+    },
+    {
+        "question": "What is the PEO of the Computer Engineering department?",
+        "answer": "One of the PEOs is that our graduates will have knowledge, skills, and attitude."
+    },
+    {
+        "question": "What is a PSO of the Computer Engineering department?",
+        "answer": "One PSO is to analyze, design, and develop computer programs using appropriate hardware."
+    },
+    {
+        "question": "What is a PO of the Computer Engineering department?",
+        "answer": "One PO is to apply the knowledge of mathematics and engineering in practice."
+    },
+    {
+        "question": "What are the PEOs of the Automobile Engineering department?",
+        "answer": "Students should develop sound fundamental knowledge in automobile engineering and acquire the ability to function productively."
+    },
+    {
+        "question": "What are the POs of the Automobile Engineering department?",
+        "answer": "One PO is to apply the knowledge of mathematics and science in engineering problems."
+    },
+    {
+        "question": "What are the missions of the Automobile Engineering department?",
+        "answer": "The missions include providing quality education and fostering innovation in vehicle design and technology."
+    },
+    {
+        "question": "What is the program overview of the First Year Engineering department?",
+        "answer": "The First Year Engineering department focuses on foundational engineering principles and concepts."
+    },
+    {
+        "question": "What is the contact email for the Computer Engineering department's HOD?",
+        "answer": "The contact email is sgovilkar@mes.ac.in."
+    },
+    {
+        "question": "What is the contact email for the Information Technology department's HOD?",
+        "answer": "The contact email is vsat2k@mes.ac.in."
+    },
+    {
+        "question": "What is the contact email for the Mechanical Engineering department's HOD?",
+        "answer": "The contact email is divyamvp@mes.ac.in."
+    },
+    {
+        "question": "What is the contact email for the Automobile Engineering department's HOD?",
+        "answer": "The contact email is ameymarathe@mes.ac.in."
+    },
+    {
+        "question": "What is the contact email for the Electronics and Telecommunication Engineering department's HOD?",
+        "answer": "The contact email is avinashvaidya@mes.ac.in."
+    },
+    {
+        "question": "What is the contact email for the First Year Engineering department's HOD?",
+        "answer": "The contact email is profarun@mes.ac.in."
+    }
+]
